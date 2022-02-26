@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import Header from '../components/myHeader' 
+import Header from '../components/myheader' 
 import "../components/style.css"
 
 const AboutPage = () => {
