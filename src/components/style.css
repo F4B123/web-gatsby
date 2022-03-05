@@ -57,3 +57,43 @@ body {
     padding: 0 40px;
     
 }
+
+.title {
+    font-weight: 500;
+    font-size: 3em;
+    margin-bottom: 1rem;
+    margin-top: 0;
+}
+
+.subtitle {
+    font-weight: 500;
+    font-size: 1.2em;
+    margin-bottom: 2rem;
+}
+
+.btn {
+    color: white;
+    background-color: #000000;
+    padding: .75rem 1.5rem;
+    border-radius: .5rem;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.secondary-nav ul {
+    display: flex;
+    margin-top: 1.5rem;
+    margin-left: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.secondary-nav a {
+    color:inherit;
+    text-decoration: none;
+    padding: 0.5rem;
+}
+
+.secondary-nav a:hover {
+    color:#adadad;
+}

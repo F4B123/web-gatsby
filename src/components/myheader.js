@@ -6,14 +6,14 @@ const Header = () => (
     <header class= "main-header" >
         <a href = "/" class="web-name">
             <div class="web-name1">
-                Fabian Ruiz
+                Home
             </div>
         </a>
         <nav class="main-nav">
             <ul>
-                <li><a href = "/">Skills</a></li>
-                <li><a href = "/">Education</a></li>
-                <li><a href = "/">Experience</a></li>
+                <li><a href = "/#skills">Skills</a></li>
+                <li><a href = "/#EaC">Education</a></li>
+                <li><a href = "/#Interest">Experience</a></li>
             </ul>
         </nav>
         
